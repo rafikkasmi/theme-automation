@@ -730,23 +730,11 @@
       }
     }
   },
-  "order": [
-    "main",
-    "logo_scroll_iJqtWw",
-    "lumin_mega_GXJFXE",
-    "video_text_6AWz6j",
-    "lumin_mega_7iePmG",
-    "multicolumn_pLNmjC",
-    "comparison_table_9j8NnQ",
-    "lumin_hero_8jr4ii",
-    "multicolumn_xdHhwC",
-    "66ce973a-c6cd-47aa-b2ed-27752c8cc295",
-    "05f459a6-0335-4bab-8d23-ac347077efcc",
-    "a0df3eca-8a1b-49de-8f51-1e249c35b9f0",
-    "c0ef23cf-5481-4b47-9b78-3c28134c079a",
-    "3475a8f9-021f-4acd-8e57-163ef2a26740",
-    "product_faq_section",
-    "related-products",
-    "530954a1-091e-46fd-b6f9-aaaaca76ceb6"
+"order": [
+      "main",
+      "lumin_mega_GXJFXE",
+      "lumin_mega_7iePmG",
+      "05f459a6-0335-4bab-8d23-ac347077efcc",
+      "c0ef23cf-5481-4b47-9b78-3c28134c079a"
   ]
 }
